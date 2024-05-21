@@ -126,9 +126,9 @@ Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze 
 - Help en Documentatie: Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface voor het geval er iets misgaat
 
 ## Bijlagen
-Protocol: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit 
-Videos tests: - https://youtu.be/LqED6phG2a4
-              - https://youtu.be/_Iaf5eOsnbs 
+Protocol: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit <br>
+Videos tests: - https://youtu.be/LqED6phG2a4<br>
+              - https://youtu.be/_Iaf5eOsnbs <br>
 
 
 
