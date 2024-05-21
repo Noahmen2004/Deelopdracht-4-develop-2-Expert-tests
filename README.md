@@ -1,4 +1,4 @@
-### Expert Tests
+# Expert Tests
 
 *Projectteam: Noah Menschaert; luca Poppe*
 
@@ -15,3 +15,35 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
 - Doe berichten open en lees het laatste bericht in de derde chat luidop voor.
 - Ga naar telefoon en bel <nummer>.
 - Zet de kaart in een andere instelling.
+
+## Evaluatie door middel van de 10 heuristieken van Nielsen 
+
+#### <u>Warre De Vriendt:<u/>
+
+Prototype 1 draaiende interfaces:
+
+<p>
+  <img src=/>
+
+</p>
+
+Prototype 2 polarisatie interface:
+
+
+Prototype 3  schuivende interface:
+
+#### <u>Kai Cerchyd:<u/>
+
+Prototype 1 draaiende interfaces:
+
+
+Prototype 2 polarisatie interface:
+
+
+Prototype 3  schuivende interface:
+
+
+
+
+
+
