@@ -23,7 +23,7 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
 Prototype 1 draaiende interfaces:
 
 <p>
-  <img src="" width="500" 
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120050.png" width="500" 
      height="auto" />
 
 </p>
@@ -31,7 +31,7 @@ Prototype 1 draaiende interfaces:
 Prototype 2 polarisatie interface:
 
 <p>
-  <img src="" width="500" 
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120103.png" width="500" 
      height="auto" />
 
 </p>
@@ -40,7 +40,7 @@ Prototype 2 polarisatie interface:
 Prototype 3  schuivende interface:
 
 <p>
-  <img src="" width="500" 
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120119.png" width="500" 
      height="auto" />
 
 </p>
@@ -50,7 +50,7 @@ Prototype 3  schuivende interface:
 Prototype 1 draaiende interfaces:
 
 <p>
-  <img src="" width="500" 
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120119.png" width="500" 
      height="auto" />
 
 </p>
@@ -59,7 +59,7 @@ Prototype 1 draaiende interfaces:
 Prototype 2 polarisatie interface:
 
 <p>
-  <img src="" width="500" 
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120136.png" width="500" 
      height="auto" />
 
 </p>
@@ -68,7 +68,7 @@ Prototype 2 polarisatie interface:
 Prototype 3  schuivende interface:
 
 <p>
-  <img src="" width="500" 
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120149.png" width="500" 
      height="auto" />
 
 </p>
