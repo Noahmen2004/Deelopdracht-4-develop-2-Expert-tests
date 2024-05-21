@@ -23,6 +23,7 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
      height="auto" />
 
 </p>
+
 > "Polaristiefilm interface
    Vanaf dat ze rijden komt er een film over het scherm die ervoor zorgt dat de chauffeur het scherm niet kan zien
 "
@@ -31,6 +32,7 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
      height="auto" />
 
 </p>
+
 > "Draaiende interface
    Vanaf dat ze rijden draait het scherm naar de medepassgier zoadat de chauffeur het scherm niet kan zien
 "
