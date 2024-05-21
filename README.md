@@ -25,7 +25,7 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
 </p>
 
 > - Polaristiefilm interface
- - Vanaf dat ze rijden komt er een film over het scherm die ervoor zorgt dat de chauffeur het scherm niet kan zien
+> - Vanaf dat ze rijden komt er een film over het scherm die ervoor zorgt dat de chauffeur het scherm niet kan zien
 
 <p>
   <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143758.png" width="500" 
@@ -124,5 +124,11 @@ Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze 
 
 #### Documentatie en Help Functie:
 - Help en Documentatie: Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface voor het geval er iets misgaat
+
+## Bijlagen
+Protocol: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit 
+Videos tests: - https://youtu.be/LqED6phG2a4
+              - https://youtu.be/_Iaf5eOsnbs 
+
 
 
