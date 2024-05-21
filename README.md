@@ -18,6 +18,17 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
 
 ## prototypes
 
+<p>
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143533.png" width="500" 
+     height="auto" />
+
+</p>
+
+<p>
+  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143758.png" width="500" 
+     height="auto" />
+
+</p>
 
 ## Evaluatie door middel van de 10 heuristieken van Nielsen 
 
