@@ -24,8 +24,8 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
 
 </p>
 
-> - Polaristiefilm interface
-> - Vanaf dat ze rijden komt er een film over het scherm die ervoor zorgt dat de chauffeur het scherm niet kan zien
+> Polaristiefilm interface<br>
+> Vanaf dat ze rijden komt er een film over het scherm die ervoor zorgt dat de chauffeur het scherm niet kan zien
 
 <p>
   <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143758.png" width="500" 
@@ -33,10 +33,19 @@ De bedoeling is dat ze de opdrachten uitvoeren en vertellen wat makkelijk of moe
 
 </p>
 
-> - Draaiende interface
-> - Vanaf dat ze rijden draait het scherm naar de medepassgier zoadat de chauffeur het scherm niet kan zien
+> Draaiende interface<br>
+> Vanaf dat ze rijden draait het scherm naar de medepassgier zoadat de chauffeur het scherm niet kan zien
 
+<p>
+  <img src="IMG_20240422_151156237.jpg" width="500" 
+     height="auto" />
 
+</p>
+
+> Schuivende interface<br>
+Vanaf dat de auto rijd verschuift de interface naar rechts bij de medepassagier<br>
+Wegens gebrek aan foto een schets
+> 
 ## Evaluatie door middel van de 10 heuristieken van Nielsen 
 
 #### <u>Warre De Vriendt:<u/>
