@@ -2,7 +2,7 @@
 
 *Projectteam: Noah Menschaert; luca Poppe*
 
-*Datum 22/1/2024*
+*Datum 10/4/2024*
 
 ## De testen
 De testen werden uitgevoerd op 2 personen Kai Cherchyd en Warre De Vriendt We hebben 3 verschillende protoypes van een centraal touchscreen (dat functioneert als bedieningspaneel voor de auto) uitgetest op hun. 
